@@ -1,0 +1,207 @@
+{
+  "events": [
+    {
+      "id": "0",
+      "category": "Street Food",
+      "city": "Iasi",
+      "description": "The most awaited event of the summer, the Gelato Festival brings the most delicious artisanal ice creams from around the world.",
+      "name": "Gelato Festival",
+      "img": "https://images.pexels.com/photos/8713075/pexels-photo-8713075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "06/07/2024",
+      "location": "Old Town",
+      "price": "50"
+    },
+    {
+      "id": "1",
+      "category": "Party",
+      "city": "Bucuresti",
+      "description": "Come dance the night away at Night Fever, the party that will light up downtown Bucharest.",
+      "name": "Night Fever",
+      "img": "https://images.pexels.com/photos/1164985/pexels-photo-1164985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "07/07/2024",
+      "location": "Downtown Club",
+      "price": "200"
+    },
+    {
+      "id": "2",
+      "category": "Concerts",
+      "city": "Sibiu",
+      "description": "Experience the magic when classical piano meets jazz in an open-air setting.",
+      "name": "Piano meets Jazz",
+      "img": "https://images.pexels.com/photos/2927080/pexels-photo-2927080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "13/07/2024",
+      "location": "Open Air Theater",
+      "price": "120"
+    },
+    {
+      "id": "3",
+      "category": "Street Food",
+      "city": "Sibiu",
+      "description": "Join us for Coffee o'clock, a delightful event for coffee enthusiasts.",
+      "name": "Coffee o'clock",
+      "img": "https://images.pexels.com/photos/302890/pexels-photo-302890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "13/07/2024",
+      "location": "Old Town",
+      "price": "50"
+    },
+    {
+      "id": "4",
+      "category": "Theatre",
+      "city": "Iasi",
+      "description": "Don't miss The Unexpected Guest, a thrilling theatrical performance.",
+      "name": "The Unexpected Guest",
+      "img": "https://images.pexels.com/photos/6899932/pexels-photo-6899932.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "13/07/2024",
+      "location": "Iasi Theatre",
+      "price": "200"
+    },
+    {
+      "id": "5",
+      "category": "Sport",
+      "city": "Bucuresti",
+      "description": "Get ready for an exciting day on wheels at the On sk8 event.",
+      "name": "On sk8",
+      "img": "https://images.pexels.com/photos/1152854/pexels-photo-1152854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "21/07/2024",
+      "location": "Club XYZ",
+      "price": "120"
+    },
+    {
+      "id": "6",
+      "category": "Street Food",
+      "city": "Bucuresti",
+      "description": "Sushi lovers unite at the Sushi Festival for a day of exquisite flavors.",
+      "name": "Sushi festival",
+      "img": "https://images.pexels.com/photos/1148087/pexels-photo-1148087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "21/07/2024",
+      "location": "Old Town",
+      "price": "50"
+    },
+    {
+      "id": "7",
+      "category": "Party",
+      "city": "Bucuresti",
+      "description": "Relive the classics at the Oldies Hits Party, a night of nostalgic tunes.",
+      "name": "Oldies hits party",
+      "img": "https://images.pexels.com/photos/1762578/pexels-photo-1762578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "28/07/2024",
+      "location": "Downtown Club",
+      "price": "200"
+    },
+    {
+      "id": "8",
+      "category": "Concerts",
+      "city": "Iasi",
+      "description": "Rock on at the Rockstars Tribute, celebrating the greatest hits of all time.",
+      "name": "Rockstars tribute",
+      "img": "https://images.pexels.com/photos/2928026/pexels-photo-2928026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "03/08/2024",
+      "location": "Open Air Theater",
+      "price": "120"
+    },
+    {
+      "id": "9",
+      "category": "Street Food",
+      "city": "Iasi",
+      "description": "Indulge your sweet cravings at the Sweet Tooth festival.",
+      "name": "Sweet tooth",
+      "img": "https://images.pexels.com/photos/2373520/pexels-photo-2373520.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "04/08/2024",
+      "location": "Club XYZ",
+      "price": "50"
+    },
+    {
+      "id": "10",
+      "category": "Theatre",
+      "city": "Sibiu",
+      "description": "Experience the mystery and drama of The Unknown, a captivating theatre performance.",
+      "name": "The Unknown",
+      "img": "https://images.pexels.com/photos/6877445/pexels-photo-6877445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "10/08/2024",
+      "location": "XYZ Theatre",
+      "price": "120"
+    },
+    {
+      "id": "11",
+      "category": "Sport",
+      "city": "Bucuresti",
+      "description": "Join us for Let's Cycle Together, a fun and energetic cycling event.",
+      "name": "Let's cycle together",
+      "img": "https://images.pexels.com/photos/20500972/pexels-photo-20500972/free-photo-of-femeie-strada-drum-osea.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "11/08/2024",
+      "location": "Victory Avenue",
+      "price": "120"
+    },
+    {
+      "id": "12",
+      "category": "Street Food",
+      "city": "Bucuresti",
+      "description": "Taste the best of Asian cuisine at the Asian Food Festival.",
+      "name": "Asian food festival",
+      "img": "https://images.pexels.com/photos/3297882/pexels-photo-3297882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "17/08/2024",
+      "location": "Old Town",
+      "price": "50"
+    },
+    {
+      "id": "13",
+      "category": "Party",
+      "city": "Iasi",
+      "description": "Feel the breeze and enjoy the beats at the Summer Breeze party.",
+      "name": "Summer Breeze",
+      "img": "https://images.pexels.com/photos/11802404/pexels-photo-11802404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "18/08/2024",
+      "location": "Downtown Club",
+      "price": "200"
+    },
+    {
+      "id": "14",
+      "category": "Concerts",
+      "city": "Bucuresti",
+      "description": "Join us for a Special Concert featuring unique performances under the stars.",
+      "name": "Special concert",
+      "img": "https://images.pexels.com/photos/7097466/pexels-photo-7097466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "date": "24/08/2024",
+      "location": "Open Air Theater",
+      "price": "120"
+    },
+    {
+      "id": "15",
+      "category": "Sport",
+      "city": "Sibiu",
+      "description": "Come and watch an awesome basketball game and see who will be the next legend.",
+      "name": "Basketball legends",
+      "img": "https://images.pexels.com/photos/2820905/pexels-photo-2820905.jpeg",
+      "date": "24/08/2024",
+      "location": "Basketball Court Sibiu",
+      "price": "120"
+    }
+  ],
+
+  "users": [
+    {
+      "id": "0",
+      "name": "Ion Popescu",
+      "email": "ionpopescu@gmail.com",
+      "password": "popescu1@"
+    },
+    {
+      "id": "1",
+      "name": "Vasile Ionescu",
+      "email": "vasileionescu@gmail.com",
+      "password": "ionescu1@"
+    },
+    {
+      "id": "2",
+      "name": "Ion Stanescu",
+      "email": "ionstanescu@gmail.com",
+      "password": "stanescu1@"
+    },
+    {
+      "id": "3",
+      "name": "Ana Georgescu",
+      "email": "anageorgescu@gmail.com",
+      "password": "georgescu1@"
+    }
+  ]
+}
